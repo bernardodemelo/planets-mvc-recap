@@ -38,8 +38,6 @@ You should work inside the GET '/list-planets' Express Route. Inside it, you sho
 
 After that, you should edit your 'list-planets.hbs' to have all the data in your HTML... maybe start with a {{#each}} {{/each}} loop? 😉
 
-Hint: Remember that Handlebars only reads Objects, not Arrays!
-
 <br>
 
 ### Good Luck! 🎉🎉🎉
